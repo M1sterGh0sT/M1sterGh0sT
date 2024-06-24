@@ -14,7 +14,6 @@ asset to any development team.
 
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/daniil-mykytenko-b038aa2a3/)
 * ✉️  You can contact me at [danillomykytenko@gmail.com](mailto:danillomykytenko@gmail.com)
-* 🧠  I'm learning Java
 
 ### Skills
 
