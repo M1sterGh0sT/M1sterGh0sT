@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A short description about me
 ----------------------------
 
-In Python, I developed a GA algorithm. Developed python GUI projects. Developed websites by using Django. Developed websites by using JS, HTML and CSS. Practicing my skills on Codewars, LeetCode. I am also self-studying FastApi, Java
+I'm a Backend Developer proficient in Python, dedicated to crafting efficient
+server-side solutions. As a member of ASIS, I bring an added layer of expertise in
+security, ensuring robust and secure application development. Eager to
+contribute to dynamic projects, I prioritize code quality and project objectives.
+With a proactive, adaptable approach and a passion for learning, I'm a valuable
+asset to any development team.
+
 
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/daniil-mykytenko-b038aa2a3/)
 * ✉️  You can contact me at [danillomykytenko@gmail.com](mailto:danillomykytenko@gmail.com)
