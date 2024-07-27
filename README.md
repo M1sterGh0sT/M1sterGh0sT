@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A short description about me
 ----------------------------
 
-I'm a Backend Developer proficient in Python, dedicated to crafting efficient
+I'm a Backend Developer proficient in Python (4 years), dedicated to crafting efficient
 server-side solutions. As a member of ASIS, I bring an added layer of expertise in
 security, ensuring robust and secure application development. Eager to
 contribute to dynamic projects, I prioritize code quality and project objectives.
